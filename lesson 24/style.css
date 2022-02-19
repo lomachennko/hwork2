@@ -1,0 +1,44 @@
+.box {
+    margin: 370px;
+    width: 600px;
+    height: 300px;
+    min-height: 200px;
+    border: 2px solid black ;
+    display: flex ;
+    margin-top: 20px;
+    ;
+}
+h1 {
+    text-align: center;
+}
+.root div {
+    width: 170px;
+    height: 40px;
+    display: flex;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    color: cornsilk;
+    margin: 20px;
+    float: left;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.box1 {
+    width: 100px;
+    height: 100px;
+}
+.new--div {
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    position: relative;
+    top: 0;
+    left: 0;
+    justify-content: center;
+}
+.vroot {
+    display: flex;
+    justify-content: center;
+}
